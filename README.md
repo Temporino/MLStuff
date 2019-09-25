@@ -1,2 +1,2 @@
 # MLStuff
-ML Stuff
+Have fun and learn
