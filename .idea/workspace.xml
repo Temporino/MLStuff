@@ -13,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Digit Recognizer/Code/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -31,6 +40,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Digit Recognizer/Code/__init__.py" />
       </list>
     </option>
   </component>
@@ -58,6 +68,12 @@
               <item name="MLStuff" type="b2602c69:ProjectViewProjectNode" />
               <item name="MLStuff" type="462c0819:PsiDirectoryNode" />
               <item name="Digit Recognizer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MLStuff" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MLStuff" type="462c0819:PsiDirectoryNode" />
+              <item name="Digit Recognizer" type="462c0819:PsiDirectoryNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,6 +191,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Digit Recognizer/Code/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
